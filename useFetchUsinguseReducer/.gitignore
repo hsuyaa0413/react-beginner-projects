@@ -24,6 +24,4 @@ dist-ssr
 *.sw?
 
 useFetch.js
-App.jsx
 styles.css
-public
